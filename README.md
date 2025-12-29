@@ -43,6 +43,10 @@ The model is evaluated using common medical imaging metrics: Intersection over U
 
     Best Model Selection: The "Best Model" is saved based on a combined score of (0.5 * Val_IoU + 0.5 * Val_Dice).
 
+Here is the results of prediction:
+![Figure_1.png](./Figure_1.png)
+![Figure_2.png](./Figure_2.png)
+
 # Part 2: User Guide - How to Use
 
 To use this model on your own CT data or continue training, follow the configuration steps below.
